@@ -1,18 +1,23 @@
 .buttons{
     background-color: black;
+    display: flex;
+    justify-content: space-between;
 }
 .button{
     border: none;
     cursor: pointer;
     color: white;
     background-color: transparent;
+    font-size: 20px;
+    margin-left: 5px;
 }
 #player{
     width: 800px;
     height: 600px;
+    display: flex;
+    flex-direction: column;
+    box-shadow: 0 0 20px;
 }
-.js-video-container{
-    width: 100%;
-    height: 100%;
-    box-shadow: 0 0 10px rgba(1,0,1,1);
+.videocontainer{
+    flex-grow: 1;       
 }
