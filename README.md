@@ -1,7 +1,7 @@
 # Видеоплеер
 
 Этот проект представляет собой видеоплеер, созданный на основе сторонней библиотеке [video-player-jslib](https://github.com/devmanorg/video-player-jslib)
-![скрин](sreen.png)
+![скрин](sсreen.png)
 
 ## Как пользоваться
 
