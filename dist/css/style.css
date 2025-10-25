@@ -2,6 +2,7 @@
     background-color: black;
     display: flex;
     justify-content: space-between;
+
 }
 .button{
     border: none;
@@ -9,7 +10,8 @@
     color: white;
     background-color: transparent;
     font-size: 20px;
-    margin-left: 5px;
+    margin-left: 4px;
+    margin-bottom: 9px;
 }
 #player{
     width: 800px;
@@ -20,4 +22,7 @@
 }
 .videocontainer{
     flex-grow: 1;       
+}
+.fullscreen{
+    margin-right: 4px;
 }
