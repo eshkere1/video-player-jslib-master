@@ -1,7 +1,11 @@
 # Видеоплеер
 
 Этот проект представляет собой видеоплеер, созданный на основе сторонней библиотеке [video-player-jslib](https://github.com/devmanorg/video-player-jslib)
+<<<<<<< HEAD
 ![скрин](screenshot.png)
+=======
+
+>>>>>>> ab3e4b98ff07c4096dcc0fe218f10912bb0c5ed8
 
 ## Как пользоваться
 
