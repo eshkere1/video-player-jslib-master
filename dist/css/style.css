@@ -3,7 +3,11 @@
     background-color: black;
     display: flex;
     justify-content: space-between;
-   
+    
+}
+.play{
+    width: 29.5px;
+
 }
 .button{
     border: none;
@@ -12,7 +16,7 @@
     background-color: transparent;
     font-size: 20px;
     margin-left: 4px;
-    margin-bottom: 9px; 
+    margin-bottom: 9px;
 }
 #player{
     width: 800px;
